@@ -6,3 +6,4 @@
 4. 1004homework (隨機森林或Adaboost、對參數進行分析)
 5. 1011homework (kNN,CART,LR 比較k值)
 6. 1025homework (SVR,SVC)
+7. 1115homework (期中報告，整理之前的作業)
