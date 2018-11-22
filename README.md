@@ -7,3 +7,4 @@
 5. 1011homework (kNN,CART,LR 比較k值)
 6. 1025homework (SVR,SVC)
 7. 1115homework (期中報告，整理之前的作業)
+8. 1122homework (畫出BPN向前傳遞(Forward pass)與向後傳遞(Backward pass)方法與計算)
