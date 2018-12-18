@@ -8,6 +8,6 @@
 06. 1025homework (SVR,SVC)
 07. 1115homework (期中報告，整理之前的作業)
 08. 1122homework (畫出BPN向前傳遞(Forward pass)與向後傳遞(Backward pass)方法與計算)
-09. 1216homework (在Anaconda創造Keras及tensorflow環境，用BPN、CNN做手寫數字辨識(MNIST))
-10. 
+09. 1206homework (在Anaconda創造Keras及tensorflow環境，用BPN、CNN做手寫數字辨識(MNIST))
+10. 1213homework (請畫出LSTM網路架構圖)
 11. 
